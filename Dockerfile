@@ -2,7 +2,7 @@ ARG VERSION=11 DBNAME='db_lsnet'
 
 FROM debian:${VERSION}
 
-LABEL creator="Nick van Rompuy"
+LABEL creator="Nick0tin"
 
  
 RUN apt-get update  \
